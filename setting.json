@@ -1,0 +1,46 @@
+{
+    "title": "时空隧道",
+    "description": "通往墨晓城堡的大门",
+    "keywords": "墨晓,个人主页",
+    "author": "墨晓",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "墨晓",
+    "logo_text_2": "  世界与你同在",
+    "github": "sprout-cooler",
+    "qq": "",
+    "email": "2514978304@qq.com",
+    "bilibili": "36253080",
+    "telegram": "ericici",
+    "link_1": [
+        "./vcard/vcard.html",
+        "fa-solid fa-blog",
+        "简历"
+    ],
+    "link_2": [
+        "https://kwink.ml/",
+        "fa-solid fa-cloud",
+        "博客"
+    ],
+    "link_3": [
+        "https://music.163.com/#/user/home?id=293756567",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "https://kwink.ml/",
+        "fa-solid fa-wand-magic-sparkles",
+        "灵境"
+    ],
+    "link_5": [
+        "https://kwink.ml/",
+        "fa-solid fa-book-bookmark",
+        "网站导航"
+    ],
+    "link_6": [
+        "https://kwink.ml/",
+        "fa-solid fa-flask",
+        "实验室(开发中)"
+    ],
+    "Copyright_text": "墨晓",
+    "beian": ""
+}
